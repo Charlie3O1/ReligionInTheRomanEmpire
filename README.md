@@ -1,18 +1,109 @@
-# ReligionInTheRomanEmpire
-<title>Religion in the Roman Empire</title>
+# THE LIBRARY OF ALEXANDRIA
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Template</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Times New Roman", Times;
+}
+
+
+.header {
+  background-color: #f1f1f1;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; 
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<h2>Who Destroyed The Library of Alexandria?</h2>
+<p>Click on an image to see the evidence against each suspect</p>
+
+
+<div class="header">
+  <h2>The Suspects</h2>
+</div>
+
+<div class="row">
+  
+<div class="column" style="background-color:#aaa;"> <a href="file:///C:/Users/Charlie/Desktop/Latin%20Project/Caesar.html">
+<img alt="Caesar" src="https://bit.ly/3iq8ezp" width=610" height="280"> 
+</a> <p>Julius Caesar</p> </div>
+ 
+<div class="column" style="background-color:#bbb;"><a href="file:///C:/Users/Charlie/Desktop/Latin%20Project/Christians.html">
+<img alt="Christians" src="https://bit.ly/3qAHiQ8" width=610" height="280"> </a> <p>The fourth century Christians</p> </div>
+  
+<div class="column" style="background-color:#ccc;"> <a href="file:///C:/Users/Charlie/Desktop/Latin%20Project/Omar.html">
+<img alt="Omar" src="https://bit.ly/35SQrf0" width=610" height="280"> </a> <p>Omar</p> </div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<style>
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+
 <center>
-<h1>Roman Religion</h1>
-<h2>Charlie Luke LVL1D1</h2>
-</center><center>
-<p>Roman religion dramatically changed over time, going from polytheism to Christianity. The ancient Romans were incredibly superstitious. They often wore bullae, lockets that they believed to keep the evil spirits away. They even thought that if you got out of bed on the left side, you would have a bad day! The Romans believed that they were being protected by their household gods.</p>
-<img src="https://cdn.britannica.com/45/154245-050-4F21A9EE/Ruins-Forum-Rome.jpg" alt="centered image" width="1600" height="486" /></center><center><img src="https://bit.ly/3em0mM3" alt="Jupiter" width="230" height="230" /> <img src="https://bit.ly/3gp5tgp" alt="Emperor Constantine" width="230" height="230" /> <img src="https://bit.ly/3dk58JC" alt="Neptune" width="230" height="230" /> <img src="https://bit.ly/36EqpLF" alt="Julius Caesar" width="230" height="230" /> <img src="https://bit.ly/2Xxnn7S" alt="Pluto" width="230" height="230" /> <img src="https://bit.ly/3gsb4Cl" alt="The Roman Pantheon" width="230" height="230" /> <img src="https://bit.ly/2ZJCEFo" alt="Roman Shrine for the Household Gods" width="230" height="230" /> <img src="https://bit.ly/3gsxaoi" alt="The Battle of the Milvian Bridge" width="230" height="230" />
-<p>From left to right: Jupiter the god of sky and thunder, Roman Emperor Constantine, Neptune the god of the sea, Julius Caesar Roman statesman and general, the Roman Pantheon, a shrine to the household gods, and the battle of the Milvian Bridge.</p>
-</center><center>
-<h2>Timeline</h2>
-<img src="https://i.ibb.co/k9VZWn3/roman-religion-britannica-google-chrome-2020-05-25-3-28-45-pm-2.png" alt="Timeline by Charlie Luke" /></center><center>
-<h2>The Imperial Cult</h2>
-<img src="https://bit.ly/3c5TYag" alt="Divus Julius" width="300" height="&quot;300/" /><img src="https://bit.ly/3emAdg7" alt="Augustus Caesar" width="300" height="&quot;300/" />
-<p>The Imperial Cult was a way for Roman emperors to justify their power. They were viewed as gods, and they wanted to be treated as such. Julius Caesar was the first person to be viewed as a god upon his death in 44 BCE. From that point on, he would be referred to as &amp;quotDivus Julius&amp;quot. The status of an emperor as a god led to tensions in the province of Judea, as Judaism is a monotheistic religion.</p>
-</center><center>
-<h2>Christianity in Ancient Rome</h2>
-<img src="https://bit.ly/2XEVOcM" alt="Christianity in Ancient Rome"/> <p>Christianity is a monotheistic religion that stemmed from Judaism after the death of Jesus Christ. Christianity would later become the largest religion in the world due to it's missionary nature, as Christians are encouraged to spread the word of Jesus Christ. The first person to spread Christianity throughout the Roman Empire was Paul the Apostle. Roman emperors disliked Christianity and other monotheistic religions because they opposed the idea that emperors can be gods. In 64 CE, emperor Nero blamed the Christians for the Great Fire of Rome, and started the persecution of Christians. Some historians believe that it was Nero that started the fire. In 303 CE, emperor Diocletian started the final persecution of Christians, know as the Great Persecution. The Battle of the Milvian Bridge took place on October 28, 312 CE. The battle was between the armies of Constantine and Maxentius. This battle is considered to be one of the major turning points for Roman religion. The night before the battle, Constantine had a vision of the Chi Rho symbol. This symbol stood for Christ. Constantine had his soldiers carve the symbol on their shields, and fight under the power of the Christian god. Constantine won the battle in the end, making him the undisputed emperor the Western Roman Empire. He converted to Christianity and stopped the persecution of Christians by passing the Edict of Milan in 313 CE. In 325 CE, Constantine called the Council of Nicaea to determine the official beliefs in Christianity. The Council of Nicaea determined that the Father, Son, and Holy Spirit are the same entity, know as the Trinity. Today, all major sects of Christianity believe this, except for Jehovah's Witnesses and Latter Day Saints. Constantine was baptized on his death bed, making him the first Christian Roman Emperor. In 380, emperor Theodosius made Christianity the official religion of the Roman Empire. This made the Roman Empire the third state to become officially become Christian, after Armenia and Aksum.</p> </center>
+<a href="file:///C:/Users/Charlie/Desktop/Latin%20Project/BackgroundInfo.html" class="button">Click here for background information</a>
+</center>
+
+
+
+</body>
+</html>
+
